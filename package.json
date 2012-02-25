@@ -15,7 +15,7 @@
   { "type" : "git"
   , "url" : "http://github.com/powmedia/mongoose-fixtures.git"
   }
-, "bugs" : { "web" : "http://github.com/powmedia/mongoose-fixtures/issues" }
+, "bugs" : { "url" : "http://github.com/powmedia/mongoose-fixtures/issues" }
 , "licenses" :
   [ { "type" : "MIT"
     , "url" : "http://github.com/powmedia/mongoose-fixtures/raw/master/LICENSE"
